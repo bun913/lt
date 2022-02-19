@@ -1,0 +1,16 @@
+/* @theme gaia_custom */
+
+@import 'gaia';
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+
+section {
+  font-family: 'Noto Serif', serif;
+}
+
+section p {
+  font-size: 1.2rem;
+}
+
+section ul {
+  font-size: 1.2rem;
+}
